@@ -40,7 +40,7 @@ A 30-minute screen recording demonstrating the following is included:
 - Setuping the React + Vite.JS + TypeScript Project
 - Fetching and displaying forms
 
-> https://www.youtube.com/watch?v=SmHnFCAKLtI
+> https://youtu.be/SmHnFCAKLtI
 ---
 
 ## ⚙️ Installation
